@@ -1,0 +1,63 @@
+{
+  "main": "outliers-crm-03-records",
+  "main_commit": "10de892c3162453089961386e410bf02ad0583bf",
+  "mac": "outliers-crm-03-records-mac",
+  "macgen_commit": "50a7935",
+  "date": "2026-09-26",
+  "fingerprint": "3a9b9cba2bb66e90b1e38a8d9902eab665b27ed22f17ded323a9fb45922caf37",
+  "left_out_of_fingerprint": [
+    ".mac-version.json",
+    "guide/Layer-3-What-You-Store (Mac).pdf",
+    "guide/Layer-3-What-You-Store.html"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "category": "same",
+      "sha256": "271540188ae129e9d99d3a8ad965db71df8c7cd7abfacb3580f60a5b61de5c1a"
+    },
+    {
+      "path": "README.md",
+      "category": "changed",
+      "sha256": "9b578586bb2ee9970ad54e696a0deec1a2d0660627d3bf1714210274b0ceffef"
+    },
+    {
+      "path": "WHAT-I-STOLE.md",
+      "category": "same",
+      "sha256": "1022a7c9522e079ed9c60d065bb680cb3706b4e51441a8c94c552ccca256f92f"
+    },
+    {
+      "path": "crm/derive.py",
+      "category": "same",
+      "sha256": "33c818b1017c4ae3345a1a508003fcf8c92d067db5d83a5ce8cb40d250f7f0e8"
+    },
+    {
+      "path": "crm/ledger.py",
+      "category": "same",
+      "sha256": "295cfd642f538764405761131ac6230254c33e210d40f05f9338b315d24c19f0"
+    },
+    {
+      "path": "crm/settings.py",
+      "category": "same",
+      "sha256": "bfccd7d2c3ab7cb6ce13943bedb181bd96923ab44c770c3f1930670bbf7148f5"
+    },
+    {
+      "path": "guide/Layer-3-What-You-Store (Mac).pdf",
+      "category": "left out of the fingerprint"
+    },
+    {
+      "path": "guide/Layer-3-What-You-Store.html",
+      "category": "left out of the fingerprint"
+    },
+    {
+      "path": "install.py",
+      "category": "same",
+      "sha256": "0b0c31e337bad81cd836f9dd872c85cbfe4c9c58d2f75015f25f1924b9d8b5da"
+    },
+    {
+      "path": "tests/test_ledger_and_derive.py",
+      "category": "same",
+      "sha256": "21a6c80f38186624f9db5ed0cf2d18bb9a714cf95ab50cb795ad309e607d7aee"
+    }
+  ]
+}
